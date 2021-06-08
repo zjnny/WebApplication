@@ -15,7 +15,7 @@ namespace WebApplication.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            //DI
+            //DI//22
             _logger = logger;
         }
 
